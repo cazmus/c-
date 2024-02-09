@@ -5,7 +5,7 @@
 using namespace std;
 
 void middleArithmetic(int data[18], int number );
-void middleArithmeticSecond(int data[18], int number );
+void middleArithmeticSecond(int * data, int number );
 
 int main() {
     SetConsoleOutputCP(CP_UTF8);
